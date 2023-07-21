@@ -1,8 +1,16 @@
-# React + Vite
+# Ejercicio 7
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Utilice funcion map para recorrer un array en el
+- componente EmpleadoList y devolver
+- una lista de empleados mediante props con sus respectivas
+- propiedades, las cuales las muestro por pantalla en el
+- componente EmpleadoRow
 
-Currently, two official plugins are available:
+### Requisitos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Crear una aplicación web que permite reutilizar componentes siguiendo la
+estructura de la siguiente imagen, pueden incorporar bootstrap u hojas de estilo
+propias.
+Tendremos un EmpleadoAvatar (recuadro rojo), un EmpleadoRow (recuadro verde) y
+por último un EmpleadoList (recuadro azul).
+Los datos de los empleados deberán ser mostrados mediante un arreglo
